@@ -34,4 +34,8 @@ public class Bet {
     public String getDescription () {
         return myDescription;
     }
+    
+    public String placeBet() {
+    	return "";
+    }
 }
